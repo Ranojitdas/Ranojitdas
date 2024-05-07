@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ranojitdas690@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/182CCWOhTOQntOWUNLbDYYgA-tItY00AL/view?usp=sharing](https://drive.google.com/file/d/182CCWOhTOQntOWUNLbDYYgA-tItY00AL/view?usp=sharing)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **I'm quite introvert**
 
