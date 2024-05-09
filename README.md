@@ -1,7 +1,7 @@
 ![Header](github-header-image.png)
 <h1 align="center">Hi 👋, I'm Ranojit Das</h1>
 <h3 align="center">A passionate Flutter and Java developer from India</h3>
-<img align="right" width="420" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" width="415" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranojitdas&label=Profile%20views&color=0e75b6&style=flat" alt="ranojitdas" /> </p>
 
