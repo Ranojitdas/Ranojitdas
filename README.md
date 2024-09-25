@@ -37,8 +37,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranojitdas&" alt="ranojitdas" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranojitdas&show_icons=true&locale=en&layout=compact" alt="ranojitdas" /></p>
 
+<br>
+<br>
                                                              
 
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranojitdas" alt="ranojitdas" /></a> </p>-->
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranojitdas&title=-Reviews,-Issues" alt="ranojitdas" /></a> </p>
 
