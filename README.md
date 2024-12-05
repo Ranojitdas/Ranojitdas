@@ -14,6 +14,8 @@
   
 -  🔭 Also working on **Flutter E-Book app ui with audio player**
 
+-  🚀 Aspire to learn **Kotlin** and **Swift** ( cause it will be an easy shift from Dart to these languages 😎)
+
 - 🌱 I’m currently learning **Flutter and cloud computing**
 
 - 💬 Ask me about **Java,JDBC,Dart,Flutter**
