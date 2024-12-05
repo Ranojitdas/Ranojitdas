@@ -12,7 +12,7 @@
 
 -  🔭 I’m currently working on **Flutter Stamp selling app for SIH 2024 Finale**
   
--  🔭 I’m currently working on **Flutter E-Book app ui with audio player**
+-  🔭 Also working on **Flutter E-Book app ui with audio player**
 
 - 🌱 I’m currently learning **Flutter and cloud computing**
 
