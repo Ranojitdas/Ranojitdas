@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5100&lines=Hi+There!+👋+I'm+Ranojit+Das!;" />
 </h1>
 
-<h3 align="center">A passionate Native (Kotlin ) and Cross-platform (Flutter) developer and Java developer from India</h3>
+<h3 align="center">A passionate Native (Kotlin ) and Cross-platform (Flutter) App developer and Java developer from India</h3>
 
 <img align="right" width="415" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
