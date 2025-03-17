@@ -41,8 +41,9 @@
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranojitdas&" alt="ranojitdas" /></p>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ranojitdas&show_icons=true&locale=en&layout=compact&hide=c,c++" alt="ranojitdas" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ranojitdas&show_icons=true&locale=en&layout=compact&hide=c,c++,html,css,javascript&langs_count=5" alt="ranojitdas" />
 </p>
+
 
 <br>
 </p>                                                 
