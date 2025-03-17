@@ -40,7 +40,10 @@
 
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranojitdas&" alt="ranojitdas" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ranojitdas&show_icons=true&locale=en&layout=compact" alt="ranojitdas" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ranojitdas&show_icons=true&locale=en&layout=compact&hide=c,c++" alt="ranojitdas" />
+</p>
+
 <br>
 </p>                                                 
 <br>
