@@ -68,3 +68,8 @@
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranojitdas&title=-Reviews,-Issues" alt="ranojitdas" /></a> </p>
 
+# My GitHub Profile
+
+## Hackatime Usage Stats
+
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=3583&api_domain=hackatime.hackclub.com&theme=merko&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
