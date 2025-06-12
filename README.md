@@ -43,6 +43,7 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranojitdas&show_icons=true&locale=en&layout=compact&hide=c++,javascript," alt="ranojitdas" />
 </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranojitdas&show_icons=true&locale=en" alt="ranojitdas" /></p>
 
 
 
