@@ -14,11 +14,11 @@
   
 -  🔭 Also working on **Flutter E-Book app ui with audio player**
 
-- 🌱 I’m currently learning **Flutter and Jetpack Compose**
+- 🌱 I’m currently learning ** Jetpack Compose**
 
 - 💬 Ask me about **Java,JDBC,Dart,Flutter,Kotlin,Jetpack Compose**
 
--  🚀 Aspire to learn **Kotlin** and **Swift** ( it will be little bit easier to shift from Dart to these languages I think cause both have async/await syntax ) 
+-  🚀 Aspire to learn **Kotlin** and **Swift** ( it will be little bit easier to shift from Dart to these languages I think) 
 
 - 📫 How to reach me **ranojitdas690@gmail.com**
 
