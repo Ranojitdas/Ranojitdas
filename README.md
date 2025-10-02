@@ -14,7 +14,7 @@
   
 -  🔭 Also working on **Flutter E-Book app ui with audio player**
 
-- 🌱 I’m currently learning ** Jetpack Compose**
+- 🌱 I’m currently learning **Jetpack Compose**
 
 - 💬 Ask me about **Java,JDBC,Dart,Flutter,Kotlin,Jetpack Compose**
 
