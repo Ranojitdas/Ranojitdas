@@ -4,28 +4,21 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5100&lines=Hi+There!+👋+I'm+Ranojit+Das!;" />
 </h1>
 
-<h3 align="center">A passionate Native (Kotlin ) and Cross-platform (Flutter) App developer and Java developer from India</h3>
+<h3 align="center">
+    Computer Engineering Student & Software Developer | Flutter • Kotlin • Java • C++
+</h3>
 
-<img align="right" width="415" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ranojitdas&label=Profile%20views&color=0e75b6&style=flat" alt="ranojitdas" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranojitdas&label=Profile%20views&color=0e75b6&style=flat" alt="ranojitdas" /> </p>
+- 🔭 I’m currently working on a **Stock Exchange Machine using C++ and Data Structures & Algorithms**
 
--  🔭 I’m currently working on **Jharkhand Journeys, AI & AR-VR based tourist app**
-  
--  🔭 Also working on **Flutter E-Book app ui with audio player**
+- 💬 Ask me about **C++, Java, Dart, Flutter, Kotlin, Firebase, and Jetpack Compose**
 
-- 🌱 I’m currently learning **Jetpack Compose**
+- 📫 How to reach me : **ranojitdas362@gmail.com** , **ce4302023@niamt.ac.in**
 
-- 💬 Ask me about **Java,JDBC,Dart,Flutter,Kotlin,Jetpack Compose**
-
--  🚀 Aspire to learn **Kotlin** and **Swift** ( it will be little bit easier to shift from Dart to these languages I think) 
-
-- 📫 How to reach me **ranojitdas690@gmail.com**
-
-- 📄 Know about my experiences 
-
-- ⚡ Fun fact **I'm quite introvert**
-
+- ⚡ Fun fact :  I enjoy finding random UI designs on Figma and turning them into Flutter UI.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/profile/ranojitdas362" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ranojitdas362" height="37" width="42" /></a>
@@ -34,42 +27,71 @@
 <a href="https://codeforces.com/profile/ranojit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/ranojit" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+<h3 align="left">Languages & Technologies:</h3>
 
+<h4 align="left">Languages</h4>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40" alt="Kotlin"/>
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40" alt="Dart"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="SQL"/>
+</p>
+
+<h4 align="left">Development</h4>
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" alt="Flutter"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="Android"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" width="40" height="40" alt="Jetpack Compose"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase"/>
+  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="40" height="40" alt="Supabase"/>
+  <strong>REST API</strong>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+</p>
+
+<h4 align="left">Tools & Concepts</h4>
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android Studio"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/>
+  <br>
+</p>
+### 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/railshift/RailShift_Manager">
+    <img src="dutyhours.svg" alt="DutyHours Project" width="750" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ranojitdas/edunest">
+    <img src="edunest.svg" alt="EduNest Project" width="750" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ranojitdas/adv_eeg">
+    <img src="adveeg.svg" alt="ADV-EEG Project" width="750" />
+  </a>
+</p>
 
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ranojitdas&" alt="ranojitdas" /></p>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranojitdas&show_icons=true&locale=en&layout=compact&hide=c++,javascript," alt="ranojitdas" />
+  <img align="left" src="https://github-stats-mu-nine.vercel.app/api/top-langs?username=ranojitdas&layout=compact&hide=javascript,plpgsql" alt="ranojitdas" />
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranojitdas&show_icons=true&locale=en" alt="ranojitdas" /></p>
+<p>&nbsp;<img align="center" src="https://github-stats-mu-nine.vercel.app/api?username=ranojitdas&show_icons=true&locale=en&hide=contribs" alt="ranojitdas" /></p>
 
 
 
 <br>
 </p>                                                 
 <br>
-<p><img align="center" src="https://holopin.me/ranojitdas" alt="ranojitdas" /></p>
-<br>
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-    <br>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
-</div>
-<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranojitdas&title=-Reviews,-Issues" alt="ranojitdas" /></a> </p>
-
-## Hackatime Usage Stats
-
-![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=3583&api_domain=hackatime.hackclub.com&theme=merko&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
-
