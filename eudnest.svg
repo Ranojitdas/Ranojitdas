@@ -1,0 +1,18 @@
+<svg width="750" height="210" viewBox="0 0 750 210" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="750" height="210" rx="8" fill="#0D1117" stroke="#30363D" stroke-width="1.5"/>
+  
+  <text x="30" y="45" font-family="Segoe UI, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#FFFFFF">🎓 EduNest — Student Learning Platform</text>
+  
+  <text x="30" y="85" font-family="Segoe UI, Helvetica, sans-serif" font-size="15" fill="#C9D1D9">• Developed student-focused learning app built for Android and Desktop platforms.</text>
+  <text x="30" y="110" font-family="Segoe UI, Helvetica, sans-serif" font-size="15" fill="#C9D1D9">• Implemented AI-powered practice tests and proctored secure submissions.</text>
+  <text x="30" y="135" font-family="Segoe UI, Helvetica, sans-serif" font-size="15" fill="#C9D1D9">• Built professor-driven panel to manage attendance, assignments, and exam marks.</text>
+  
+  <rect x="30" y="160" width="70" height="24" rx="4" fill="#02569B"/>
+  <text x="65" y="176" font-family="Segoe UI, Helvetica, sans-serif" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Flutter</text>
+  
+  <rect x="110" y="160" width="80" height="24" rx="4" fill="#3ECF8E"/>
+  <text x="150" y="176" font-family="Segoe UI, Helvetica, sans-serif" font-size="12" font-weight="bold" fill="#1E1E1E" text-anchor="middle">Supabase</text>
+
+  <rect x="200" y="160" width="85" height="24" rx="4" fill="#8E75B2"/>
+  <text x="242.5" y="176" font-family="Segoe UI, Helvetica, sans-serif" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Gemini API</text>
+</svg>
