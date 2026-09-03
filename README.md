@@ -70,28 +70,42 @@
 <!-- ==================== DUTY HOURS ==================== -->
 <td width="50%" valign="top">
 
-<a href="https://github.com/railshift/RailShift_Manager">
-  <img align="right"
-       src="https://cdn.simpleicons.org/github/white"
-       width="18"
-       alt="GitHub">
-</a>
+<h3>🚉 Duty Hours — Railway Crew Duty Management</h3>
 
 <p>
-  <strong><big>🚉 Duty Hours</big></strong>
-</p>
+<big>
 
-<strong>Railway Crew Duty Management</strong>
+<img src="https://api.iconify.design/mdi/check.svg?color=%232ea043&width=18&height=18"
+     width="18"
+     height="18"
+     alt="✓">&nbsp;
+Developed a cross-platform app to streamline shift management for railway crew.<br>
 
-<p>
-• Developed a cross-platform app to streamline shift management for railway crew.<br>
-• Engineered automated alerts using FCM to enforce duty limits.<br>
-• Successfully published to the Google Play Store.
+<img src="https://api.iconify.design/mdi/check.svg?color=%232ea043&width=18&height=18"
+     width="18"
+     height="18"
+     alt="✓">&nbsp;
+Engineered automated alert system via FCM to enforce duty limits.<br>
+
+<img src="https://api.iconify.design/mdi/check.svg?color=%232ea043&width=18&height=18"
+     width="18"
+     height="18"
+     alt="✓">&nbsp;
+Managed deployment lifecycle, successfully publishing to the Google Play Store.
+
+</big>
 </p>
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
 <img src="https://img.shields.io/badge/REST_API-4C8DBE?style=flat-square">
+
+<a href="https://github.com/railshift/RailShift_Manager">
+  <img align="right"
+       src="https://cdn.simpleicons.org/github/white"
+       width="20"
+       alt="GitHub">
+</a>
 
 </td>
 
@@ -99,28 +113,42 @@
 <!-- ==================== EDUNEST ==================== -->
 <td width="50%" valign="top">
 
-<a href="https://github.com/Ranojitdas/edunest">
-  <img align="right"
-       src="https://cdn.simpleicons.org/github/white"
-       width="18"
-       alt="GitHub">
-</a>
+<h3>🎓 EduNest — Student Learning Platform</h3>
 
 <p>
-  <strong><big>🎓 EduNest</big></strong>
-</p>
+<big>
 
-<strong>Student Learning Platform</strong>
+<img src="https://api.iconify.design/mdi/check.svg?color=%232ea043&width=18&height=18"
+     width="18"
+     height="18"
+     alt="✓">&nbsp;
+Developed a student-focused learning app built for Android and Desktop platforms.<br>
 
-<p>
-• Developed a student-focused learning application for Android and Desktop.<br>
-• Implemented AI-powered practice tests and secure submissions.<br>
-• Built a professor panel for attendance, assignments, and exam marks.
+<img src="https://api.iconify.design/mdi/check.svg?color=%232ea043&width=18&height=18"
+     width="18"
+     height="18"
+     alt="✓">&nbsp;
+Implemented AI-powered practice tests and proctored secure submissions.<br>
+
+<img src="https://api.iconify.design/mdi/check.svg?color=%232ea043&width=18&height=18"
+     width="18"
+     height="18"
+     alt="✓">&nbsp;
+Built a professor-driven panel to manage attendance, assignments, and exam marks.
+
+</big>
 </p>
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black">
 <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white">
+
+<a href="https://github.com/Ranojitdas/edunest">
+  <img align="right"
+       src="https://cdn.simpleicons.org/github/white"
+       width="20"
+       alt="GitHub">
+</a>
 
 </td>
 
@@ -132,28 +160,42 @@
 <!-- ==================== ADV-EEG ==================== -->
 <td width="50%" valign="top">
 
-<a href="https://github.com/Ranojitdas/adv_eeg">
-  <img align="right"
-       src="https://cdn.simpleicons.org/github/white"
-       width="18"
-       alt="GitHub">
-</a>
+<h3>🧠 ADV-EEG — Government of India Project</h3>
 
 <p>
-  <strong><big>🧠 ADV-EEG</big></strong>
-</p>
+<big>
 
-<strong>Government of India Project</strong>
+<img src="https://api.iconify.design/mdi/check.svg?color=%232ea043&width=18&height=18"
+     width="18"
+     height="18"
+     alt="✓">&nbsp;
+Built Android UI for real-time EEG monitoring and depression assessment.<br>
 
-<p>
-• Built an Android UI for real-time EEG monitoring and depression assessment.<br>
-• Connected backend ML pipelines with the frontend for live brain activity metrics.<br>
-• Designed the application for real-time visualization.
+<img src="https://api.iconify.design/mdi/check.svg?color=%232ea043&width=18&height=18"
+     width="18"
+     height="18"
+     alt="✓">&nbsp;
+Connected backend ML pipelines with frontend for live brain activity metrics.<br>
+
+<img src="https://api.iconify.design/mdi/check.svg?color=%232ea043&width=18&height=18"
+     width="18"
+     height="18"
+     alt="✓">&nbsp;
+Designed the application for real-time visualization.
+
+</big>
 </p>
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/REST_API-4C8DBE?style=flat-square">
+
+<a href="https://github.com/Ranojitdas/adv_eeg">
+  <img align="right"
+       src="https://cdn.simpleicons.org/github/white"
+       width="20"
+       alt="GitHub">
+</a>
 
 </td>
 
@@ -161,15 +203,21 @@
 <!-- ==================== STOCK EXCHANGE MACHINE ==================== -->
 <td width="50%" valign="top">
 
-<p>
-  <strong><big>📈 Stock Exchange Machine</big></strong>
-</p>
-
-<strong>C++ Data Structures & Algorithms</strong>
+<h3>📈 Stock Exchange Machine</h3>
 
 <p>
-• 🚧 Currently building a stock exchange simulation using C++ and DSA.<br>
-• Focused on efficient order matching and transaction processing.
+<big>
+
+🚧&nbsp;
+Currently building a stock exchange simulation using C++ and DSA.<br>
+
+<img src="https://api.iconify.design/mdi/check.svg?color=%232ea043&width=18&height=18"
+     width="18"
+     height="18"
+     alt="✓">&nbsp;
+Focused on efficient order matching and transaction processing.
+
+</big>
 </p>
 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white">
@@ -180,7 +228,6 @@
 
 </tr>
 </table>
-
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ranojitdas&" alt="ranojitdas" /></p>
 <p>
