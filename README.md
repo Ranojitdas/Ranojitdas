@@ -258,11 +258,9 @@ Focused on efficient order matching and transaction processing.
 
 <br>
 </p>      
-<p>
+<p align="left">
   <img
-    src="https://trophy.ryglcloud.net/?username=Ranojitdas&title=-Reviews"
+    src="https://trophy.ryglcloud.net/?username=Ranojitdas&title=-Reviews&margin-w=15"
     alt="GitHub Trophies"
   />
 </p>
-
-<br>
