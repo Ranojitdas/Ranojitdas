@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-    Computer Engineering Student | Software Developer | Flutter • Android • C++
+    Computer Engineering Student | Software Developer | Flutter • Android • C++ • DSA
 </h3>
 
 <p align="left">
@@ -31,7 +31,6 @@
 
 <h4 align="left">Languages</h4>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40" alt="Kotlin"/>
