@@ -62,8 +62,8 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/>
   <br>
 </p>
-### 🚀 Featured Projects
-
+<h3 align="left">Featured Projects</h3>
+<br>
 <p align="center">
   <a href="https://github.com/railshift/RailShift_Manager">
     <img src="dutyhours.svg" alt="DutyHours Project" width="750" />
