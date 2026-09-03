@@ -63,24 +63,123 @@
   <br>
 </p>
 <h3 align="left">Featured Projects</h3>
-<br>
-<p align="center">
-  <a href="https://github.com/railshift/RailShift_Manager">
-    <img src="dutyhours.svg" alt="DutyHours Project" width="750" />
-  </a>
+
+<table>
+<tr>
+
+<!-- ==================== DUTY HOURS ==================== -->
+<td width="50%" valign="top">
+
+<a href="https://github.com/railshift/RailShift_Manager">
+  <img align="right"
+       src="https://cdn.simpleicons.org/github/white"
+       width="18"
+       alt="GitHub">
+</a>
+
+<p>
+  <strong><big>🚉 Duty Hours</big></strong>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Ranojitdas/edunest">
-    <img src="edunest.svg" alt="EduNest Project" width="750" />
-  </a>
+<strong>Railway Crew Duty Management</strong>
+
+<p>
+• Developed a cross-platform app to streamline shift management for railway crew.<br>
+• Engineered automated alerts using FCM to enforce duty limits.<br>
+• Successfully published to the Google Play Store.
 </p>
 
-<p align="center">
-  <a href="https://github.com/Ranojitdas/adv_eeg">
-    <img src="adveeg.svg" alt="ADV-EEG Project" width="750" />
-  </a>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
+<img src="https://img.shields.io/badge/REST_API-4C8DBE?style=flat-square">
+
+</td>
+
+
+<!-- ==================== EDUNEST ==================== -->
+<td width="50%" valign="top">
+
+<a href="https://github.com/Ranojitdas/edunest">
+  <img align="right"
+       src="https://cdn.simpleicons.org/github/white"
+       width="18"
+       alt="GitHub">
+</a>
+
+<p>
+  <strong><big>🎓 EduNest</big></strong>
 </p>
+
+<strong>Student Learning Platform</strong>
+
+<p>
+• Developed a student-focused learning application for Android and Desktop.<br>
+• Implemented AI-powered practice tests and secure submissions.<br>
+• Built a professor panel for attendance, assignments, and exam marks.
+</p>
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black">
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white">
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<!-- ==================== ADV-EEG ==================== -->
+<td width="50%" valign="top">
+
+<a href="https://github.com/Ranojitdas/adv_eeg">
+  <img align="right"
+       src="https://cdn.simpleicons.org/github/white"
+       width="18"
+       alt="GitHub">
+</a>
+
+<p>
+  <strong><big>🧠 ADV-EEG</big></strong>
+</p>
+
+<strong>Government of India Project</strong>
+
+<p>
+• Built an Android UI for real-time EEG monitoring and depression assessment.<br>
+• Connected backend ML pipelines with the frontend for live brain activity metrics.<br>
+• Designed the application for real-time visualization.
+</p>
+
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/REST_API-4C8DBE?style=flat-square">
+
+</td>
+
+
+<!-- ==================== STOCK EXCHANGE MACHINE ==================== -->
+<td width="50%" valign="top">
+
+<p>
+  <strong><big>📈 Stock Exchange Machine</big></strong>
+</p>
+
+<strong>C++ Data Structures & Algorithms</strong>
+
+<p>
+• 🚧 Currently building a stock exchange simulation using C++ and DSA.<br>
+• Focused on efficient order matching and transaction processing.
+</p>
+
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/DSA-FF6F00?style=flat-square">
+<img src="https://img.shields.io/badge/Algorithms-6A5ACD?style=flat-square">
+
+</td>
+
+</tr>
+</table>
 
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ranojitdas&" alt="ranojitdas" /></p>
