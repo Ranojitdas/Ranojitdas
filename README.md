@@ -229,16 +229,6 @@ Focused on efficient order matching and transaction processing.
 </tr>
 </table>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ranojitdas&" alt="ranojitdas" /></p>
-<p>
-  <img align="left" src="https://github-stats-mu-nine.vercel.app/api/top-langs?username=ranojitdas&layout=compact&hide=javascript,plpgsql" alt="ranojitdas" />
-</p>
-<p>&nbsp;<img align="center" src="https://github-stats-mu-nine.vercel.app/api?username=ranojitdas&show_icons=true&locale=en&hide=contribs" alt="ranojitdas" /></p>
-
-
-
-<br>
-</p>                                                 
 <!-- ==================== EXPERIENCE & ACHIEVEMENTS ==================== -->
 
 <h3 align="left">💼 Experience & Achievements</h3>
@@ -248,14 +238,31 @@ Focused on efficient order matching and transaction processing.
 <img src="https://img.shields.io/badge/Indian%20Railways%20%7C%20App%20Development%20Intern%20%7C%20Jun%202026%20%E2%80%94%20Jul%202026-2ea043?style=for-the-badge&logoColor=white"
      alt="Indian Railways — App Development Intern — Jun 2026 — Jul 2026">
 
-<br>
 
 <img src="https://img.shields.io/badge/NIAMT%20Ranchi%20%7C%20AI%2FML%20Intern%20%7C%20May%202025%20%E2%80%94%20Jun%202025-0969da?style=for-the-badge&logoColor=white"
      alt="NIAMT Ranchi — AI/ML Intern — May 2025 — Jun 2025">
 
-<br>
 
 <img src="https://img.shields.io/badge/Smart%20India%20Hackathon%20%7C%20Grand%20Finalist%20%7C%202023%20%26%202024-f39c12?style=for-the-badge&logoColor=white"
      alt="Smart India Hackathon — Grand Finalist — 2023 & 2024">
 
 </p>
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ranojitdas&" alt="ranojitdas" /></p>
+<p>
+  <img align="left" src="https://github-stats-mu-nine.vercel.app/api/top-langs?username=ranojitdas&layout=compact&hide=javascript,plpgsql" alt="ranojitdas" />
+</p>
+<p>&nbsp;<img align="center" src="https://github-stats-mu-nine.vercel.app/api?username=ranojitdas&show_icons=true&locale=en&hide=contribs" alt="ranojitdas" /></p>
+
+
+
+<br>
+</p>      
+<p>
+  <img
+    src="https://trophy.ryglcloud.net/?username=Ranojitdas&title=-Reviews"
+    alt="GitHub Trophies"
+  />
+</p>
+
+<br>
