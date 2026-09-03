@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-    Computer Engineering Student & Software Developer | Flutter • Kotlin • Java • C++
+    Computer Engineering Student | Software Developer | Flutter • Android • C++
 </h3>
 
 <p align="left">
@@ -239,5 +239,23 @@ Focused on efficient order matching and transaction processing.
 
 <br>
 </p>                                                 
+<!-- ==================== EXPERIENCE & ACHIEVEMENTS ==================== -->
+
+<h3 align="left">💼 Experience & Achievements</h3>
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Indian%20Railways%20%7C%20App%20Development%20Intern%20%7C%20Jun%202026%20%E2%80%94%20Jul%202026-2ea043?style=for-the-badge&logoColor=white"
+     alt="Indian Railways — App Development Intern — Jun 2026 — Jul 2026">
+
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranojitdas&title=-Reviews,-Issues" alt="ranojitdas" /></a> </p>
+
+<img src="https://img.shields.io/badge/NIAMT%20Ranchi%20%7C%20AI%2FML%20Intern%20%7C%20May%202025%20%E2%80%94%20Jun%202025-0969da?style=for-the-badge&logoColor=white"
+     alt="NIAMT Ranchi — AI/ML Intern — May 2025 — Jun 2025">
+
+<br>
+
+<img src="https://img.shields.io/badge/Smart%20India%20Hackathon%20%7C%20Grand%20Finalist%20%7C%202023%20%26%202024-f39c12?style=for-the-badge&logoColor=white"
+     alt="Smart India Hackathon — Grand Finalist — 2023 & 2024">
+
+</p>
