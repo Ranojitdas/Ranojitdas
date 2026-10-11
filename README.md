@@ -247,7 +247,7 @@ Focused on efficient order matching and transaction processing.
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ranojitdas&" alt="ranojitdas" /></p>
 <p>
-  <img align="left" src="https://github-stats-mu-nine.vercel.app/api/top-langs?username=ranojitdas&layout=compact&hide=javascript,plpgsql" alt="ranojitdas" />
+  <img align="left" src="https://github-stats-mu-nine.vercel.app/api/top-langs?username=ranojitdas&layout=compact&hide=javascript" alt="ranojitdas" />
 </p>
 <p>&nbsp;<img align="center" src="https://github-stats-mu-nine.vercel.app/api?username=ranojitdas&show_icons=true&locale=en&hide=contribs" alt="ranojitdas" /></p>
 
